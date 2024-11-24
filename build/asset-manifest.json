@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7eebc124.css",
-    "main.js": "/static/js/main.65901078.js",
-    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
-    "index.html": "/index.html",
-    "main.7eebc124.css.map": "/static/css/main.7eebc124.css.map",
-    "main.65901078.js.map": "/static/js/main.65901078.js.map",
-    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/laxmanarao2003/react.git/static/css/main.da3089f3.css",
+    "main.js": "/laxmanarao2003/react.git/static/js/main.bf5ef095.js",
+    "static/js/787.d3befce1.chunk.js": "/laxmanarao2003/react.git/static/js/787.d3befce1.chunk.js",
+    "index.html": "/laxmanarao2003/react.git/index.html",
+    "main.da3089f3.css.map": "/laxmanarao2003/react.git/static/css/main.da3089f3.css.map",
+    "main.bf5ef095.js.map": "/laxmanarao2003/react.git/static/js/main.bf5ef095.js.map",
+    "787.d3befce1.chunk.js.map": "/laxmanarao2003/react.git/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7eebc124.css",
-    "static/js/main.65901078.js"
+    "static/css/main.da3089f3.css",
+    "static/js/main.bf5ef095.js"
   ]
 }
